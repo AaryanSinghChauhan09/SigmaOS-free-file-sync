@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-free-file-sync"
+version = "0.1.0"
+category = "tools"
+description = "FreeFileSync folder synchronization for SigmaOS"
